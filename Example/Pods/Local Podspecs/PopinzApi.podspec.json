@@ -1,0 +1,22 @@
+{
+  "name": "PopinzApi",
+  "version": "0.1.0",
+  "summary": "A short description of PopinzApi.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/leglands/PopinzApi",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "leglands": "sylvain@popinz.fr"
+  },
+  "source": {
+    "git": "https://github.com/leglands/PopinzApi.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PopinzApi/Classes/**/*"
+}
